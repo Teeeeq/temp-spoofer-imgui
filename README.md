@@ -29,18 +29,18 @@ The project emphasizes readability, maintainability, and modular design, making 
 - 🧩 Modular architecture
 - ⚡ High-performance rendering
 - 📦 Lightweight implementation
-- 🛠 Easily customizable
-- 💻 Built with C++ & Dear ImGui
+- 🛠 Easy to customize
+- 💻 Clean & organized codebase
 
 ---
 
 ## 📂 Code Preview
 
 <p align="center">
-    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1043df6a-bd7c-450f-ae67-2d7f1d0fb246" />
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0d7691b-b8be-4b15-94fb-2427b6022d29" />
 </p>
 
-The codebase is organized into reusable UI components, custom widgets, animation handlers, and rendering modules to ensure clean project architecture.
+The project is organized into reusable UI components, custom widgets, animation handlers, and rendering modules, ensuring a clean and maintainable architecture.
 
 ---
 
@@ -67,27 +67,24 @@ Framework/
 
 ---
 
-## 🛠 Built With
+## 📥 Download
 
-- C++17
-- Dear ImGui
-- DirectX 11
-- Win32 API
-- Visual Studio 2022
+Download the latest release from the **Releases** section.
+
+Every release contains the **complete source code**, so simply download the latest version and open the solution in Visual Studio.
 
 ---
 
-## ⭐ Highlights
+## 💬 Support
 
-- Clean code structure
-- Consistent UI design
-- Responsive layout
-- Smooth transitions
-- Easy to extend
-- Developer-friendly architecture
+Need help or have a question?
+
+Feel free to contact me on **Discord**:
+
+**@teeeeq**
 
 ---
 
 <p align="center">
-Made with ❤️ using C++ & Dear ImGui
+Made with ❤️ by <b>Teeeeq</b>
 </p>
